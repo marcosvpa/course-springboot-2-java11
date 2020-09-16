@@ -90,7 +90,7 @@ public class Product implements Serializable {
 	public void setImgUrl(String imgUrl) {
 		this.imgUrl = imgUrl;
 	}
-
+//comment
 	public Set<Category> getCategories() {
 		return categories;
 	}
